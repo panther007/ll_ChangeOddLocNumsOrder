@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.cpp
+SingleLinkedList.hpp
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.hpp
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.hpp
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/ChangeOddLocNumsOrder.cpp
+iostream
+-
+fstream
+-
+ChangeOddLocNumsOrder.hpp
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/ChangeOddLocNumsOrder.hpp
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/ChangeOddLocNumsOrder.hpp
+SingleLinkedList.hpp
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.hpp
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.cpp
+SingleLinkedList.hpp
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.hpp
+iostream
+-
+
+/Users/harshavardhanbn/onedrive/code_junk_yard/lists/ll_interview_qs/ll_ChangeOddLocNumsOrder/ChangeOddLocNumsOrder/SingleLinkedList.hpp
+opencl-c-base.h
+-
+
